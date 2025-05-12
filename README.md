@@ -25,13 +25,13 @@ I'm a Little Rock, Arkansas-based software engineer passionate about crafting ro
 
 ### 🛠️ Technical Proficiencies
 
-| Skill                   | Experience | Highlights                                                   |               |
-| ----------------------- | ---------- | ------------------------------------------------------------ | ------------- |
-| **ASP.NET**             | 20+ years  | Developed secure medical applications.                       |               |
-| **PHP**                 | 20+ years  | Overhauled backend systems for high-traffic websites.        |               |
-| **C#**                  | 20+ years  | Built full-stack AI solutions and secure applications.       |               |
-| **ChatGPT Integration** | 4+ years   | Engineered AI pipelines and middleware solutions.            |               |
-| **Project Management**  | 12+ years  | Led cross-functional teams to successful project deliveries. | ([Contra][1]) |
+| Skill                   | Experience | Highlights                                                   | 
+| ----------------------- | ---------- | ------------------------------------------------------------ | 
+| **ASP.NET**             | 20+ years  | Developed secure medical applications.                       | 
+| **PHP**                 | 20+ years  | Overhauled backend systems for high-traffic websites.        |
+| **C#**                  | 20+ years  | Built full-stack AI solutions and secure applications.       | 
+| **ChatGPT Integration** | 4+ years   | Engineered AI pipelines and middleware solutions.            | 
+| **Project Management**  | 12+ years  | Led cross-functional teams to successful project deliveries. | 
 
 ---
 
