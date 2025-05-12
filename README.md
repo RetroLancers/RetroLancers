@@ -2,7 +2,7 @@
 
 ## 💻 Software Engineer | Backend Specialist | AI Innovator
 
-I'm a Little Rock, Arkansas-based software engineer passionate about crafting robust backend systems and exploring the frontiers of AI integration. With over  2 decades in the tech industry, I've led diverse projects—from secure medical applications to full-stack AI solutions—demonstrating versatility and a commitment to excellence.([Contra][1])
+I'm a Little Rock, Arkansas-based software engineer passionate about crafting robust backend systems and exploring the frontiers of AI integration. With over  2 decades in the tech industry, I've led diverse projects—from secure medical applications to full-stack AI solutions—demonstrating versatility and a commitment to excellence. 
 
 ---
 
@@ -19,7 +19,7 @@ I'm a Little Rock, Arkansas-based software engineer passionate about crafting ro
 
 * **WeAreTheMighty.com Backend Overhaul**: Led a comprehensive backend upgrade, resulting in a 200% increase in ad revenue and a 300% reduction in server costs.
 * **Full-Stack AI Generator**: Developed an end-to-end AI solution using C#, showcasing capabilities in both backend engineering and AI integration.
-* **Secure Medical Application**: Created a C# application focused on data security, addressing critical needs in the healthcare sector.([Contra][1])
+* **Secure Medical Application**: Created a C# application focused on data security, addressing critical needs in the healthcare sector. 
 
 ---
 
